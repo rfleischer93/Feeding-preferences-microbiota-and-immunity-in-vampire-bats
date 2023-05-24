@@ -7,7 +7,8 @@ This repository contains R code and data for our manuscript:
 
 by Ramona Fleischer†', Christie Jones†, Gábor Á. Czirják, Simone Sommer, Thomas R. Gillespie, Amanda Vicente-Santos'
 
-† Shared first author <b>
+† Shared first author 
+
 ' Corresponding authors: ramona.fleischer@uni-ulm.de; amanda.vicente@ou.edu 
 
 
