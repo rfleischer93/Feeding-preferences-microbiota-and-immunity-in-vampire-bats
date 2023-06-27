@@ -12,10 +12,15 @@ by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á
 
 
 1 Institute of Evolutionary Ecology and Conservation Genomics, University of Ulm, Ulm, Germany
+
 2 Department of Environmental Sciences, Emory University, Atlanta, Georgia, USA
+
 3 Department of Environmental Health, Rollins School of Public Health, Emory University, Atlanta, Georgia, USA
+
 4 School of Biology, University of Costa Rica, San José, Costa Rica 
+
 5 Department of Wildlife Diseases, Leibniz Institute for Zoo and Wildlife Research, Berlin, Germany
+
 6 Program in Population Biology, Ecology, and Evolution, Emory University, Atlanta, Georgia, USA 
 
 
