@@ -1,6 +1,6 @@
 # Feeding-preferences-microbiota-and-immunity-in-vampire-bats
 
-This repository contains R code and data for our manuscript:
+This repository contains R code and data for our manuscript (submitted):
 
 "Human land-use changes induce dietary and gut microbial shifts linked to immunity in vampire bats with implications for host health"
 
