@@ -24,4 +24,4 @@ by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á
 6 Program in Population Biology, Ecology, and Evolution, Emory University, Atlanta, Georgia, USA 
 
 
-In this work we investigate whether changed feeding preferences in common vampire bats that roost in anthropogenically disturbed forest alter their gut microbiota and microbiota links with various innate and adaptive immune markers.
+In this work we investigate whether changed feeding preferences in common vampire bats that roost in anthropogenically disturbed forests alter their gut microbiota and if microbiota links with various innate and adaptive immune markers.
