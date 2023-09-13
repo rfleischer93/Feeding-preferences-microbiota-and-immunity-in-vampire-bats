@@ -138,16 +138,6 @@ lm_N<- lmer(dN15_air ~ PC1  + (1|cave), data = cave_micro_si_spatial)
 summary(lm_N) #not significant
 
 
-# Simple linear regression looking at 13C and 15N together (random effect not necessary here)
-slmC_N <- lm(dN15_air ~ dC13_VPDB, data = cave_micro_si_spatial)
-summary(slmC_N) #not significant
-
-# GLMM of C13 and N15 (for verification)
-lmC_N <- lmer(dN15_air ~ dC13_VPDB + (1|cave), data = cave_micro_si_spatial)
-summary(lmC_N) #not significant
-
-# R squared analysis not included because of insignificance
-
 
 # GLMM with 13C, 15N, and PC1 (land-use)
 lm_C_N_PC<- lmer(dC13_VPDB ~ PC1 + dN15_air + (1|cave), data = cave_micro_si_spatial)
