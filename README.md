@@ -2,7 +2,7 @@
 
 This repository contains R code and data for our manuscript (submitted):
 
-"Human land-use changes induce dietary and gut microbial shifts linked to immunity in vampire bats with implications for host health"
+"Gut microbial shifts in vampire bats linked to immunity due to changed diet in human disturbed landscapes"
 
 by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á. Czirják5, Simone Sommer1, Thomas R. Gillespie2,3,6, Amanda Vicente-Santos6'
 
