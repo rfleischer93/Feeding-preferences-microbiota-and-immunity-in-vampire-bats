@@ -27,6 +27,9 @@ by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á
 
 In this work we investigate whether changed feeding preferences in common vampire bats that roost in anthropogenically disturbed forests alter their gut microbiota and if microbiota links with various innate and adaptive immune markers.
 
+
+
+
 Full citation: Fleischer, R., Jones, C., Ledezma-Campos, P., Czirják, G. Á., Sommer, S., Gillespie, T. R., & Vicente-Santos, A. (2023). Gut microbial shifts in vampire bats linked to immunity due to changed diet in human disturbed landscapes. Science of The Total Environment, 167815.
 
 Link to full publication: https://authors.elsevier.com/a/1h%7EYVB8ccyh1c
