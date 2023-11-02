@@ -1,6 +1,6 @@
 # Feeding-preferences-microbiota-and-immunity-in-vampire-bats
 
-This repository contains R code and data for our manuscript (submitted):
+This repository contains R code and data for our manuscript:
 
 "Gut microbial shifts in vampire bats linked to immunity due to changed diet in human disturbed landscapes"
 
@@ -9,6 +9,7 @@ by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á
 † Shared first author 
 
 ' Corresponding authors: ramona.fleischer@uni-ulm.de; amanda.vicente@ou.edu 
+
 
 
 1 Institute of Evolutionary Ecology and Conservation Genomics, University of Ulm, Ulm, Germany
@@ -25,3 +26,8 @@ by Ramona Fleischer1†', Christie Jones2,3†, Paula Ledezma-Campos4, Gábor Á
 
 
 In this work we investigate whether changed feeding preferences in common vampire bats that roost in anthropogenically disturbed forests alter their gut microbiota and if microbiota links with various innate and adaptive immune markers.
+
+Full citation: Fleischer, R., Jones, C., Ledezma-Campos, P., Czirják, G. Á., Sommer, S., Gillespie, T. R., & Vicente-Santos, A. (2023). Gut microbial shifts in vampire bats linked to immunity due to changed diet in human disturbed landscapes. Science of The Total Environment, 167815.
+
+Link to full publication: https://authors.elsevier.com/a/1h%7EYVB8ccyh1c
+
