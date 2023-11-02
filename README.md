@@ -30,7 +30,6 @@ In this work we investigate whether changed feeding preferences in common vampir
 <br>
 <br>
 <br>
-<br>
 
 Full citation: Fleischer, R., Jones, C., Ledezma-Campos, P., Czirják, G. Á., Sommer, S., Gillespie, T. R., & Vicente-Santos, A. (2023). Gut microbial shifts in vampire bats linked to immunity due to changed diet in human disturbed landscapes. Science of The Total Environment, 167815.
 
